@@ -1,0 +1,2 @@
+2023-06-22	10:15:48	8f16d97c-2e82-4684-b35d-da492d4bdcde	INFO	I created a log	/Users/shreyash12/Documents/JS Programs/backend/index.js
+2023-06-22	10:15:48	18d1a98e-514b-4494-b36f-85e1c3e9f0be	ERROR	I created a log 2	/Users/shreyash12/Documents/JS Programs/backend/index.js
